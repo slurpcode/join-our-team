@@ -59,8 +59,11 @@ We are a growing team with big ideas and we need the help of others.
 **Note:**
 
 Lots of experience and great skills are not needed.
+
 The important thing is to want to learn and really try.
+
 That's all it takes to get started.
+
 I'm sure this could be a new experience with lots of knowledge to gain and share.
 
 Cheers 👍 
