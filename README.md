@@ -4,7 +4,7 @@
 
 We are a growing team with big ideas and we need the help of others.
 
-> Please add your message to this issue if you are interested, and we will invite you to this organization.
+> Please add your message to a new issue if you are interested, and we will invite you to this organization.
 
 **Interested or new people, please introduce yourself in at least 3 lines.**
 
