@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jbampton",
+      "name": "John Bampton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/418747?v=4",
+      "profile": "https://github.com/jbampton",
+      "contributions": [
+        "doc",
+        "business",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "join-our-team",
+  "projectOwner": "slurpcode",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
