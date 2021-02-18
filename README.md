@@ -36,6 +36,8 @@ We are a growing team with big ideas and we need the help of others.
 - Cloudflare Workers
 - Surge
 - PythonAnywhere
+- Google Cloud
+- GitLab Pages
 - Also looking to add new hosting providers
 
 **We are also working on various software tools, some of those are:**
