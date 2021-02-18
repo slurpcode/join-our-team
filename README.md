@@ -1,12 +1,14 @@
-## [OFFICIAL] New members, Colleagues and Team -> Join Here !!! 🚀🚀🚀
+# [OFFICIAL] New members, Colleagues and Team -> Join Here !!! 🚀🚀🚀
 
-**Welcome**,
+![The 400](images/the-400.gif)
 
-We are a growing team with big ideas and we need the help of others.
+## **Welcome**,
+
+### We are a growing team with big ideas, and we need the help of others.
 
 > Please add your message to a new issue if you are interested, and we will invite you to this organization.
 
-**Interested or new people, please introduce yourself in at least 3 lines.**
+**Interested or new people, please introduce yourself in at least 2 lines.**
 
 **Necessary positions:**
 
@@ -46,7 +48,7 @@ We are a growing team with big ideas and we need the help of others.
 - Command line tools
 - Web scrapers
 - Eclipse IDE based tools
-- XML/XSL/XML Schema tools
+- XML / XSL / XML Schema tools
 - File differencing tools
 
 **We are looking to expand our usage of:**
