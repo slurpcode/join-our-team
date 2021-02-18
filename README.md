@@ -1,6 +1,6 @@
 # [OFFICIAL] New members, Colleagues and Team -> Join Here !!! 🚀🚀🚀
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![The 400](images/the-400.gif)
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/jbampton"><img src="https://avatars.githubusercontent.com/u/418747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John Bampton</b></sub></a><br /><a href="https://github.com/slurpcode/join-our-team/commits?author=jbampton" title="Documentation">📖</a> <a href="#business-jbampton" title="Business development">💼</a> <a href="#ideas-jbampton" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-jbampton" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/summerhill5"><img src="https://avatars.githubusercontent.com/u/42298149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Araica</b></sub></a><br /><a href="#design-summerhill5" title="Design">🎨</a> <a href="#ideas-summerhill5" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-summerhill5" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#projectManagement-all-contributors" title="Project Management">📆</a></td>
   </tr>
 </table>
 
