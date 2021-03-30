@@ -47,6 +47,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "VictorAraica",
+      "name": "Víctor Araica",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52689572?v=4",
+      "profile": "https://github.com/VictorAraica",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
