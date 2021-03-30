@@ -1,5 +1,7 @@
 ## [OFICIAL] Nuevos miembros, colegas y equipo, -> Únanse aquí !!! 🚀🚀🚀
 
+![The 400](images/the-400.gif)
+
 **Bienvenidos**,
 
 Somos un equipo en crecimiento con grandes ideas y necesitamos la ayuda de otros.
