@@ -2,7 +2,7 @@
 
 **Bienvenidos**,
 
-Somos un equipo en crecimiento con grandes ideas y necesitamos la ayude de otros.
+Somos un equipo en crecimiento con grandes ideas y necesitamos la ayuda de otros.
 
 > Por favor agregua tu mensaje como nuevo tema (new issue) si estás interesado y te invitaremos a la organización.
 
