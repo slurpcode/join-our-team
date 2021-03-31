@@ -1,4 +1,4 @@
-## [OFICIAL] Nuevos miembros, colegas y equipo, -> Únanse aquí !!! 🚀🚀🚀
+# [OFICIAL] Nuevos miembros, colegas y equipo, -> Únanse aquí !!! 🚀🚀🚀
 
 ![The 400](images/the-400.gif)
 
