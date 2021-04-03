@@ -3,6 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
+[![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
+[![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
+
 ![The 400](images/the-400.gif)
 
 ## **Welcome**,
@@ -33,7 +37,7 @@
 - Community champions
 - And more....
 
-**We are looking to expand our sites and we host on:**
+**We are looking to expand our sites, and we host on:**
 
 - GitHub Pages
 - Heroku
