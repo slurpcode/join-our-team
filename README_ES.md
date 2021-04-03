@@ -1,5 +1,9 @@
 # [OFICIAL] Nuevos miembros, colegas y equipo, -> Únanse aquí !!! 🚀🚀🚀
 
+[![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
+[![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
+[![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
+
 ![The 400](images/the-400.gif)
 
 **Bienvenidos**,
