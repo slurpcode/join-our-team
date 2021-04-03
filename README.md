@@ -1,6 +1,6 @@
 # [OFFICIAL] New members, Colleagues and Team -> Join Here !!! 🚀🚀🚀
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
@@ -93,6 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#projectManagement-all-contributors" title="Project Management">📆</a> <a href="https://github.com/slurpcode/join-our-team/commits?author=all-contributors" title="Documentation">📖</a></td>
     <td align="center"><a href="https://maxbase.org/"><img src="https://avatars.githubusercontent.com/u/2658040?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Base</b></sub></a><br /><a href="#ideas-BaseMax" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/VictorAraica"><img src="https://avatars.githubusercontent.com/u/52689572?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Víctor Araica</b></sub></a><br /><a href="#translation-VictorAraica" title="Translation">🌍</a> <a href="https://github.com/slurpcode/join-our-team/commits?author=VictorAraica" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/natasha2016github"><img src="https://avatars.githubusercontent.com/u/16957076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Natasha</b></sub></a><br /><a href="#translation-natasha2016github" title="Translation">🌍</a></td>
   </tr>
 </table>
 
