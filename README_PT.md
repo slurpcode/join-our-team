@@ -1,18 +1,19 @@
 # [OFICIAL] Novos membros, Colegas e Equipe – Entrem Aqui!!
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
+[![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
 [![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 
 ![The 400](images/the-400.gif)
 
-Bem-vindos,
+## **Bem-vindos**,
 
-Somos uma equipe em ascensão com grandes ideias, e precisamos da ajuda de outras pessoas.
+### Somos uma equipe em ascensão com grandes ideias, e precisamos da ajuda de outras pessoas.
 
 [Por favor acrescente sua mensagem sobre um novo problema se tiver interesse, e vamos convidá-lo para esta organização.]
 
-Interessados ou novas pessoas, por favor apresentem-se em pelo menos duas linhas.
+> Interessados ou novas pessoas, por favor apresentem-se em pelo menos duas linhas.
 
 Posições necessárias:
 

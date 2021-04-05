@@ -1,13 +1,20 @@
 <div dir="rtl">
 # [رسميا] أعضاء جدد, زملاء و فرق -> انظم هنا !!!
 
+[![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
+[![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
+[![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
+[![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
+
+![The 400](images/the-400.gif)
+
 ## **أهلا و سهلا**,
 
 ### نقوم بزيادة الفريق بأفكار كبيرة, و نحتاج مساعدة اخرين .
 
 > الرجاء إضافة رسالتك إلى عدد جديد اذا كنت مهتم, و نحن سنقوم ب دعوتك الى المنظمة.
 
-** للمهتمين و الناس الجدد, يرجى التعريف عن نفسك في سطرين على الاقل.**
+**للمهتمين و الناس الجدد, يرجى التعريف عن نفسك في سطرين على الاقل.**
 
 **شواغر مهمة:**
 
