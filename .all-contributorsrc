@@ -66,6 +66,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Majalian",
+      "name": "Mujahid Al-Majali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81928799?v=4",
+      "profile": "https://github.com/Majalian",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
