@@ -1,5 +1,6 @@
 <div dir="rtl">
-# [رسميا] أعضاء جدد, زملاء و فرق -> انظم هنا !!!
+
+<h1>[رسميا] أعضاء جدد, زملاء و فرق -> انظم هنا!!!</h1>
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
