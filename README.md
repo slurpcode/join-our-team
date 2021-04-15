@@ -1,6 +1,6 @@
 # [OFFICIAL] New members, Colleagues and Team -> Join Here !!! 🚀🚀🚀
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
@@ -97,6 +97,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/VictorAraica"><img src="https://avatars.githubusercontent.com/u/52689572?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Víctor Araica</b></sub></a><br /><a href="#translation-VictorAraica" title="Translation">🌍</a> <a href="https://github.com/slurpcode/join-our-team/commits?author=VictorAraica" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/natasha2016github"><img src="https://avatars.githubusercontent.com/u/16957076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Natasha</b></sub></a><br /><a href="#translation-natasha2016github" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Majalian"><img src="https://avatars.githubusercontent.com/u/81928799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mujahid Al-Majali</b></sub></a><br /><a href="#translation-Majalian" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/sugiarto-udah-15023111"><img src="https://avatars.githubusercontent.com/u/70807?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sugiarto</b></sub></a><br /><a href="#translation-ugifractal" title="Translation">🌍</a></td>
   </tr>
 </table>
 
