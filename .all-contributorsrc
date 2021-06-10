@@ -94,6 +94,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "loveneeshdhir",
+      "name": "Loveneesh Dhir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45602254?v=4",
+      "profile": "http://loveneeshdhir.me/",
+      "contributions": [
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
