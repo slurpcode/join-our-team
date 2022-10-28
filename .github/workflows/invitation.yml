@@ -1,0 +1,19 @@
+name: GitHub invite
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.3
+        with:
+          organization: slurpcode
+          label: invite me to the organisation
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: 'Invitation sent to join the Slurp Code Organisation. Welcome to the community 🎉'
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}

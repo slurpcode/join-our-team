@@ -13,9 +13,7 @@
 
 ### Büyük fikirleri olan büyüyen bir takımız ve yardıma ihtiyacımız var.
 
-> Eğer ilgiliyseniz lütfen New Issue sekmesine mesaj bırakın ve bizim sizi organizasyona davet etmemizi bekleyin.
-
-**İlgilenenler veya yeni olanlar, lütfen kendinizi en az 2 satırda tanıtınız.**
+> Eğer ilgiliyseniz lütfen [New Issue](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization) sekmesine mesaj bırakın ve bizim sizi organizasyona davet etmemizi bekleyin.
 
 **Gerekli Pozisyonlar:**
 

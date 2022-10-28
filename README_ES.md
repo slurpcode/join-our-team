@@ -13,9 +13,7 @@
 
 ### Somos un equipo en crecimiento con grandes ideas y necesitamos la ayuda de otros.
 
-> Por favor agregua tu mensaje como nuevo tema (new issue) si estás interesado y te invitaremos a la organización.
-
-**Interesados y nuevos, por favor presentarse usando al menos 3 líneas.**
+> Por favor agregua tu mensaje como nuevo tema [new issue](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization) si estás interesado y te invitaremos a la organización.
 
 **Posiciones que necesitamos cubrir:**
 
