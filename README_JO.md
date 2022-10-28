@@ -3,9 +3,9 @@
 <h1>[رسميا] أعضاء جدد, زملاء و فرق -> انظم هنا!!!</h1>
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
-[![README_FA.md](https://img.shields.io/badge/Persian-up-brightgreen)](README_FA.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
 [![README_ID.md](https://img.shields.io/badge/Indonesian-up-brightgreen)](README_ID.md)
+[![README_FA.md](https://img.shields.io/badge/Persian-up-brightgreen)](README_FA.md)
 [![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 
