@@ -1,6 +1,7 @@
 # [OFFICIAL] کاربران جدید, همکاران و تیم -> ملحق شوید !!! 🚀🚀🚀
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
+[![README_FA.md](https://img.shields.io/badge/Persian-up-brightgreen)](README_FA.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
 [![README_ID.md](https://img.shields.io/badge/Indonesian-up-brightgreen)](README_ID.md)
 [![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
