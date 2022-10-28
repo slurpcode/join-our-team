@@ -4,6 +4,7 @@
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
+[![README_ID.md](https://img.shields.io/badge/Indonesian-up-brightgreen)](README_ID.md)
 [![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 
@@ -13,9 +14,7 @@
 
 ### نقوم بزيادة الفريق بأفكار كبيرة, و نحتاج مساعدة اخرين .
 
-> الرجاء إضافة رسالتك إلى عدد جديد اذا كنت مهتم, و نحن سنقوم ب دعوتك الى المنظمة.
-
-**للمهتمين و الناس الجدد, يرجى التعريف عن نفسك في سطرين على الاقل.**
+> الرجاء إضافة رسالتك إلى عدد [جديد](https://github.com/slurpcode/join-our-team/issues/new/choose) اذا كنت مهتم, و نحن سنقوم ب دعوتك الى المنظمة.
 
 **شواغر مهمة:**
 

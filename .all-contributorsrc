@@ -45,7 +45,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/2658040?v=4",
       "profile": "https://maxbase.org/",
       "contributions": [
-        "ideas"
+        "ideas",
+        "doc"
       ]
     },
     {
@@ -72,6 +73,24 @@
       "name": "Mujahid Al-Majali",
       "avatar_url": "https://avatars.githubusercontent.com/u/81928799?v=4",
       "profile": "https://github.com/Majalian",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ugifractal",
+      "name": "sugiarto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807?v=4",
+      "profile": "https://www.linkedin.com/in/sugiarto-udah-15023111",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "basalumutgazi",
+      "name": "basalumutgazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81925269?v=4",
+      "profile": "https://github.com/basalumutgazi",
       "contributions": [
         "translation"
       ]

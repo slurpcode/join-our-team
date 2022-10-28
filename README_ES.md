@@ -2,8 +2,10 @@
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
+[![README_ID.md](https://img.shields.io/badge/Indonesian-up-brightgreen)](README_ID.md)
 [![README_PT.md](https://img.shields.io/badge/Portuguese-up-brightgreen)](README_PT.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
+[![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 
 ![The 400](images/the-400.gif)
 
@@ -11,18 +13,16 @@
 
 ### Somos un equipo en crecimiento con grandes ideas y necesitamos la ayuda de otros.
 
-> Por favor agregua tu mensaje como nuevo tema (new issue) si estás interesado y te invitaremos a la organización.
-
-**Interesados y nuevos, por favor presentarse usando al menos 3 líneas.**
+> Por favor agregua tu mensaje como nuevo tema [new issue](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization) si estás interesado y te invitaremos a la organización.
 
 **Posiciones que necesitamos cubrir:**
 
 - Programadores en Ruby
-- Programadores en Golang 
-- Programadores en Python 
-- Programadores en Lisp 
-- Programadores en Rust 
-- Programadores en Shell script 
+- Programadores en Golang
+- Programadores en Python
+- Programadores en Lisp
+- Programadores en Rust
+- Programadores en Shell script
 - Desarrolladores en Front end
 - Profesionales en DevOps
 - Administradores de sistemas
@@ -51,7 +51,7 @@
 - Herramientas de línea de comando
 - Scrapers para la web
 - Herramientas basadas en Eclipse IDE
-- Herramientas Schema XML/XSL/XML 
+- Herramientas Schema XML/XSL/XML
 - Herramientas de diferenciación de archivos
 
 **Deseamos expandir nuestro uso de:**
@@ -61,7 +61,7 @@
 - TravisCI
 - Shell Script
 - Ganchos (hooks) Pre-commit
-- Apps para el mercado GitHub 
+- Apps para el mercado GitHub
 
 **Nota:**
 
@@ -73,4 +73,4 @@ Es todo lo que hace falta para empezar.
 
 Tenemos la seguridad de que esta podría ser una nueva experiencia con muchos conocimientos qué ganar y compartir.
 
-Ánimo 👍 
+Ánimo 👍
