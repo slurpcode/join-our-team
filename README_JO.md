@@ -15,7 +15,7 @@
 
 ### نقوم بزيادة الفريق بأفكار كبيرة, و نحتاج مساعدة اخرين .
 
-> الرجاء إضافة رسالتك إلى عدد [جديد]([https://github.com/slurpcode/join-our-team/issues/new/choose](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization)) اذا كنت مهتم, و نحن سنقوم ب دعوتك الى المنظمة.
+> الرجاء إضافة رسالتك إلى عدد [جديد](https://github.com/slurpcode/join-our-team/issues/new/choose](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization) اذا كنت مهتم, و نحن سنقوم ب دعوتك الى المنظمة.
 
 **شواغر مهمة:**
 
