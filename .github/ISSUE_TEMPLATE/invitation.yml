@@ -1,0 +1,12 @@
+name: Invitation to the Slurp Code GitHub Community Organization
+description: I would like to be part of the Slurp Code GitHub Community Organization
+title: Please invite me to the Slurp Code GitHub Community Organization
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true

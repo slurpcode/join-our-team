@@ -13,9 +13,7 @@
 
 ### kami adalah tim yang sedang berkembang dengan ide yang besar, dan kami membutuhkan bantuan anda.
 
-> Silahkan kirim pesan anda dalam bentuk issue baru jika anda tertarik, dan kami akan mengundundang anda ke dalam organisasi ini.
-
-**Yang tertarik atau orang baru, silahkan perkenalkan diri anda minimal dalam 2 baris kalimat.**
+> Silahkan kirim pesan anda dalam bentuk [issue](https://github.com/slurpcode/join-our-team/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Slurp+Code+GitHub+Community+Organization) baru jika anda tertarik, dan kami akan mengundundang anda ke dalam organisasi ini.
 
 **Posisi yang dibutuhkan:**
 
