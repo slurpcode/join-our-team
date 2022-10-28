@@ -1,4 +1,4 @@
-# [OFFICIAL] کاربران جدید, همکاران و تیم -> ملحق شوید !!! 🚀🚀🚀
+# [رسمی] کاربران جدید, همکاران و تیم -> ملحق شوید !!! 🚀🚀🚀
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_FA.md](https://img.shields.io/badge/Persian-up-brightgreen)](README_FA.md)
@@ -66,18 +66,19 @@
 - Pre-commit hooks
 - GitHub Marketplace apps
 
-**Note:**
+**توجه:**
 
-Lots of experience and great skills are not needed.
+برای ملحق شدن تجربه زیاد یا مهارت های عالی لازم نیست.
 
-The important thing is to want to learn and really try.
 
-That's all it takes to get started.
+مهم ترین چیز، علاقه به یادگیری و تمایل به تلاش است.
 
-I'm sure this could be a new experience with lots of knowledge to gain and share.
+همه چیز در این است که شروع به انجام کاری کنید.
+
+من مطمئن هستم که این می تواند یک تجربه جدید با دانش بسیاری همراه با رشد برای شما باشد.
 
 به سلامتی 👍
 
 ## مشارکت کنندگان ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+با تشکر از این افراد فوق العاده ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
