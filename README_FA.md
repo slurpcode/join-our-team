@@ -18,23 +18,23 @@
 
 **موقعیت های ضروری و لازم:**
 
-- Ruby programmers
-- Golang programmers
-- Python programmers
-- Lisp programmers
-- Rust programmers
-- Shell script programmers
-- Front end developers
-- DevOps professionals
-- System Admins
-- Testers
-- Writers
-- Translators
-- Designers
-- Graphic Designers
-- Community moderators
+- برنامه نویس های Ruby 
+- برنامه نویس های Golang
+- برنامه نویس های Python
+- برنامه نویس های Lisp
+- برنامه نویس های Rust
+- برنامه نویس های Shell اسکریپت
+- توسعه دهندگان فرانت
+- متخصصین DevOps
+- سیستم ادمین ها
+- متخصصین تست
+- نویسندگان
+- مترجمان
+- طراح های رابط کاربری
+- طراح های گرافیکی
+- ناظر های جامعه
 - Community champions
-- And more....
+- و بیشتر....
 
 **ما به دنبال گسترس سایت هایمان هستیم, و آنها در زیرساخت های زیر میزبانی می شوند:**
 
